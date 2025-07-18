@@ -10,6 +10,7 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
 <h2 align = "center"> 🎯 Funcionalidades</h2>
 <br>
 <p>
+  
 - Layout moderno e bem estruturado
   
 - Seções informativas sobre serviços e produtos para pets
